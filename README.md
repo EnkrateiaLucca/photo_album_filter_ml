@@ -7,7 +7,9 @@ We will train a binary classifier to classify images into "keep it" versus
 ![](2021-12-26-15-41-31.png)
 
 # Set up
+
 ```pip install -r requirements.txt```
+
 ---
 # Creating the dataset
 Sorting your files and moving them to this folder: `files_with_dates`
