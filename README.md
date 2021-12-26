@@ -6,6 +6,8 @@ We will train a binary classifier to classify images into "keep it" versus
 "don't keep it":
 ![](2021-12-26-15-41-31.png)
 
+If you want you can check out my medium article about it: https://medium.com/@lucas-soares/building-a-classifier-to-filter-out-unused-images-from-your-photo-album-6bc574ae57de
+
 # Set up
 
 ```pip install -r requirements.txt```
