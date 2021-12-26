@@ -10,9 +10,9 @@ We will train a binary classifier to classify images into "keep it" versus
 ```pip install -r requirements.txt```
 ---
 # Creating the dataset
-## Sorting your files and moving them to this folder: `files_with_dates`
+Sorting your files and moving them to this folder: `files_with_dates`
+
 ```python sort_creation_time.py --path ./path/to/your/images/folder```
-## Creating the dataset
 ### Creating the train/test folders
 ```python create_dataset.py```
 ### Splitting files into train and test folder (80%/20%)
